@@ -1,0 +1,12 @@
+如何防御我们的短信接口被盗刷
+1，加图形验证码（当调用接口一定次数后再出现），防止机器模拟请求
+2，基于ip实现限流短信验证（60秒搞一次）；
+（java比对数字图行比对相似度)/图片切割技术
+3，让验证码动起来
+4，图形验证码加干扰线
+
+
+Session本身是一个键值对对象jvm里产生 ，key,value 得出sessionid 
+
+
+-javaagent:D:\program\idea\IntelliJ IDEA 2020.1\bin\jetbrains-agent.jar

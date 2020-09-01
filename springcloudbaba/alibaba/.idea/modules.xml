@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/alibaba.iml" filepath="$PROJECT_DIR$/.idea/alibaba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-spring-cloud-alibaba-dependencies/hello-spring-cloud-alibaba-dependencies.iml" filepath="$PROJECT_DIR$/hello-spring-cloud-alibaba-dependencies/hello-spring-cloud-alibaba-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-spring-cloud-alibaba-nacos-consumer/hello-spring-cloud-alibaba-nacos-consumer.iml" filepath="$PROJECT_DIR$/hello-spring-cloud-alibaba-nacos-consumer/hello-spring-cloud-alibaba-nacos-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-spring-cloud-alibaba-nacos-consumer-feign/hello-spring-cloud-alibaba-nacos-consumer-feign.iml" filepath="$PROJECT_DIR$/hello-spring-cloud-alibaba-nacos-consumer-feign/hello-spring-cloud-alibaba-nacos-consumer-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-spring-cloud-alibaba-nacos-provider/hello-spring-cloud-alibaba-nacos-provider.iml" filepath="$PROJECT_DIR$/hello-spring-cloud-alibaba-nacos-provider/hello-spring-cloud-alibaba-nacos-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-spring-cloud-external-skywalking/hello-spring-cloud-alibaba-nacos-provider (1).iml" filepath="$PROJECT_DIR$/hello-spring-cloud-external-skywalking/hello-spring-cloud-alibaba-nacos-provider (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-spring-cloud-alibaba-nacos-provider1/hello-spring-cloud-alibaba-nacos-provider1.iml" filepath="$PROJECT_DIR$/hello-spring-cloud-alibaba-nacos-provider1/hello-spring-cloud-alibaba-nacos-provider1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-spring-cloud-alibaba-rocketmq-consumer/hello-spring-cloud-alibaba-rocketmq-consumer.iml" filepath="$PROJECT_DIR$/hello-spring-cloud-alibaba-rocketmq-consumer/hello-spring-cloud-alibaba-rocketmq-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-spring-cloud-alibaba-rocketmq-provider/hello-spring-cloud-alibaba-rocketmq-provider.iml" filepath="$PROJECT_DIR$/hello-spring-cloud-alibaba-rocketmq-provider/hello-spring-cloud-alibaba-rocketmq-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-spring-cloud-external-skywalking/hello-spring-cloud-external-skywalking.iml" filepath="$PROJECT_DIR$/hello-spring-cloud-external-skywalking/hello-spring-cloud-external-skywalking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-spring-cloud-gateway/hello-spring-cloud-gateway.iml" filepath="$PROJECT_DIR$/hello-spring-cloud-gateway/hello-spring-cloud-gateway.iml" />
+    </modules>
+  </component>
+</project>

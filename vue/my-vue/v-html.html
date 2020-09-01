@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>v-html案例</title>
+	</head>
+	<body>
+		<div id="app">
+			
+			<h1>{{name}}</h1>
+			<h1 v-html="name"></h1>
+		</div>
+		
+		<script src="https://cdn.jsdelivr.net/npm/vue"></script>
+	<script type="text/javascript">
+			var vue=new Vue({
+				el:"#app",
+				data:{
+					name:"<a href='https://www.nbilibili.com/video/av43993793/'>hello world</href>",
+				}
+			});
+		</script>
+	</body>
+</html>

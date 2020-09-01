@@ -1,0 +1,12 @@
+server:
+  port: 8098
+###dubbo 注册服务名称
+dubbo:
+  application:
+    name: order
+  ###dubbo服务地址
+#
+  registry:
+    address: zookeeper://localhost:2181
+  consumer:
+    timeout: 5000

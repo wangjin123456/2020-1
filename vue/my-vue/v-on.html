@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>v-on标签</title>
+	</head>
+	<body>
+		<div id="app">
+				<input type="button" v-on:click="hello()" value="触发事件">				
+			<input type="button" @click="hello()" value="触发事件">
+	<input type="button" @dblclick="shuangji()" value="双击回复事件">
+								
+			</div>
+			
+			<script src="https://cdn.jsdelivr.net/npm/vue"></script>
+		<script type="text/javascript">
+				var vue=new Vue({
+					el:"#app",
+					methods:{
+						hello: function(){
+							alert(1)
+						},
+						shuangji:function(){
+							alert("双击66");
+						}
+					}
+				});
+			</script>
+	</body>
+</html>

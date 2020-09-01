@@ -1,0 +1,31 @@
+###服务启动端口号
+server:
+  port: 8020
+###服务名称(服务注册到eureka名称)  
+spring:
+    application:
+        name: antmeite-stock
+  #数据库连接信息
+    datasource:
+      url: jdbc:mysql://127.0.0.1:3306/itmayidu-stock?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
+      username: root
+      password: root
+
+      driver-class-name: com.mysql.cj.jdbc.Driver
+
+###服务注册到eureka地址
+eureka:
+  client:
+    service-url:
+           defaultZone: http://localhost:8080/eureka
+
+
+logging:
+  level:
+    com.taotao.mappe:    debug
+#Lcn
+tx-lcn:
+  client:
+    manager-address: 127.0.0.1:8070
+  logger:
+    enabled: true

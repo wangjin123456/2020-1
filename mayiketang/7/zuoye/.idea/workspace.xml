@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f572dda1-27c6-413a-b46d-d88f4e98419d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../4/txlcn-demo" beforeDir="false" afterPath="$PROJECT_DIR$/../../4/txlcn-demo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/celue/service/AliYunStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/celue/service/AliYunStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/celue/service/FactoryStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/celue/service/FactoryStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/celue/service/HuaWeiStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/celue/service/HuaWeiStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/celue/service/TencenStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/celue/service/TencenStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/config/AopLogManage.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/config/AopLogManage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/config/WebLogAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/config/WebLogAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/controller/XSSController.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/controller/XSSController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/daili/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/daili/service/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/daili/service/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/daili/service/OrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/daili/service/OrderServiceProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/daili/service/OrderServiceProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/daili/service/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/daili/service/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/guangchazhe/service/config/EmailListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/guangchazhe/service/config/EmailListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/guangchazhe/service/config/MsyiktSubject.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/guangchazhe/service/config/MsyiktSubject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/guangchazhe/service/config/SmsListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/guangchazhe/service/config/SmsListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/guangchazhe/service/config/StartService.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/guangchazhe/service/config/StartService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/guangchazhe/service/controller/ZhuangshizheController.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/guangchazhe/service/controller/ZhuangshizheController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/guangchazhe/service/entity/UserMessageEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/guangchazhe/service/entity/UserMessageEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/guangchazhe/service/impl/EmailServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/guangchazhe/service/impl/EmailServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/guangchazhe/service/impl/SmsObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/guangchazhe/service/impl/SmsObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/jdk/service/JdkInvocationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/jdk/service/JdkInvocationHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/jdk/service/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/jdk/service/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/jiami/DESUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/jiami/DESUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/jiami/RSAUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/jiami/RSAUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/single/Singleton02.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/single/Singleton02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/single/Singleton03.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/single/Singleton03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/single/Singleton04.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/single/Singleton04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/single/Singleton05.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/single/Singleton05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/single/Singleton06.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/single/Singleton06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/single/Singleton07.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/single/Singleton07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/single/Singlleton01.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/single/Singlleton01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/thread/CountDownLatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/thread/CountDownLatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/thread/Mayikt.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/thread/Mayikt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/thread/MyCallable.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/thread/MyCallable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/thread/Mytask.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/thread/Mytask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/thread/Thread001.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/thread/Thread001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/thread/Thread002.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/thread/Thread002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/thread/Thread003.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/thread/Thread003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/thread/Thread004.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/thread/Thread004.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/thread/Thread005.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/thread/Thread005.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/thread/Thread006.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/thread/Thread006.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/thread/Thread007.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/thread/Thread007.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/thread/VolatileAtoThrread.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/thread/VolatileAtoThrread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/unity/JvmMapCahcheUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/unity/JvmMapCahcheUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/zerenlian/BlacklistHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/zerenlian/BlacklistHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/zerenlian/ConversationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/zerenlian/ConversationHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/zerenlian/CurrentLimitHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/zerenlian/CurrentLimitHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/zerenlian/FactoryHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/zerenlian/FactoryHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/zerenlian/GatewayHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuoye1/src/main/java/com/taotao/zuoye/zerenlian/GatewayHandler.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1fTNo4182sYUjm1Gc5f4zJ5M7fa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ShiroApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zuoye" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.taotao.shiro.ShiroApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f572dda1-27c6-413a-b46d-d88f4e98419d" name="Default Changelist" comment="" />
+      <created>1596238294010</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596238294010</updated>
+      <workItem from="1596238303836" duration="147000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="203" y="1" key="new project wizard" timestamp="1596238449205">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="203" y="1" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1596238449205" />
+  </component>
+</project>

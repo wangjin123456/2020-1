@@ -1,0 +1,58 @@
+1,获取预支付的token
+localhost:8089/toPayOrderToken?payAmount=12&orderId=22&userId=33&orderName=98
+2，根据token和支付类型去请求第三方接口 返回html 支付
+http://localhost:8089/toPayHtml?payToken=mayikt:pay-89e93a526e0646c4bfdb976f5201ab88&channelId=ali_pay
+
+
+
+
+
+
+
+
+
+CREATE TABLE `payment_channel` (
+  `ID` int(11) NOT NULL AUTO_INCREMENT COMMENT 'ID',
+  `CHANNEL_NAME` varchar(32) NOT NULL COMMENT '渠道名称',
+  `CHANNEL_ID` varchar(32) NOT NULL COMMENT '渠道ID',
+  `MERCHANT_ID` varchar(32) NOT NULL COMMENT '商户id',
+  `SYNC_URL` text NOT NULL COMMENT '同步回调URL',
+  `ASYN_URL` text NOT NULL COMMENT '异步回调URL',
+  `PUBLIC_KEY` text COMMENT '公钥',
+  `PRIVATE_KEY` text COMMENT '私钥',
+  `CHANNEL_STATE` int(11) DEFAULT '0' COMMENT '渠道状态 0开启1关闭',
+  `REVISION` int(11) DEFAULT NULL COMMENT '乐观锁',
+  `CREATED_BY` varchar(32) DEFAULT NULL COMMENT '创建人',
+  `CREATED_TIME` datetime DEFAULT NULL COMMENT '创建时间',
+  `UPDATED_BY` varchar(32) DEFAULT NULL COMMENT '更新人',
+  `UPDATED_TIME` datetime DEFAULT NULL COMMENT '更新时间',
+  `pay_bean_id` varchar(255) DEFAULT NULL,
+  `request_address` varchar(255) DEFAULT NULL,
+  PRIMARY KEY (`ID`,`CHANNEL_ID`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8 COMMENT='支付渠道 ';
+
+-- ----------------------------
+-- Records of payment_channel
+-- ----------------------------
+INSERT INTO `payment_channel` VALUES ('1', '支付宝支付', 'ali_pay', '2016092100564758', 'http://localhost:8080/ACPSample_B2C/frontRcvResponse', 'http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse', 'MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1U7j3Bl5QtyF6ZGouhkUFivy4lA10SQlZFP4CBY9uigwMDljVnhhQ', 'MIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDS7uQhVoipD8TuS3GkkcCLxqQocmJennHaCTeqs2M4xdpZqgNpKNtNPJmNVD3DDxLXqU9UR7QcPrcEUvkqVjNhhbNHwSaPS4A8XGS48kE2VlN4nYtW6wS2vqoG2fQy9bqOaPnH6jX8qlH6ILZ4h3Nx9BX5JlwJwHU+CGp/GrfyET7jBVNwzUIIhZS+U2VdusTymWXrCArmMbSDjEuZ9NyHFBs5d5iQIXZ5BpbTQ2PsmDGRXB2MY1CJ0/w+lEuEJCBvA/G8xSbdgQ38wxBRh0uaVhIN4+945q9wxrU9N2jCRFhwg4JtAK9CHK7pELy/TrrbKhg0Diq7+1vy2sLWC/ozAgMBAAECggEAS9nqIW7rv9fS2lo46JQdKGZrO7w+UYYqrNxprzHI+W50oY+4oEU372NeWGs1toIiJXlV9JnAU/PdfmmT/jx3R5d7q87yXc8pswsKkVNUTgTnCVWl+MCUtl6D5+jSnsyspG9tew1nEo/w4MCIvXj/87dxe2Hm8P7Lal4+Zaym/x27DpOiahfGuCqxr49LRgZzduo/TMVVgEZ7ZK6wCpttHDOp1jJosgM6/2yPiHu50gzG3G304KU/4u/8AqKHlvmuMgbXUXhMVFOkjRMCJ55FIG2/TK/VEGI7GWaYAjLXlv3ZaCs+gNzwLbSP6NSRzFChuqNz2gk4rqgPT5f59Yb6eQKBgQD2+YpyH46hsE0Uc31NhRMbP5EgiUV7FlqFNCdmjWaI3H797LO/3WcHZria/BCllxYMl9ehhaeVEBkfXVQAW6JvN7Tcelgmoi1JmdVF05v6RFnVI7dOWJjRIaM8GOQs1dyC7FfFQmAWZaxAuJ1a82rIEzusIV0tKjn41Da1m0i/zwKBgQDapC3+ksxze4US06E8wQ2rLv015Dw4b96IE/ElNiTahO9cZEIddEILBPhX1f1ZrBwaCKPq6qFaH1ffQIhMtMMduej9/QG8BLXLAT7xfioYgXsP8xSMs7qTlsfzclpn3VsnK605qYJVVPaLe0c9gW7kWjo89NcLoH+zfD26+6P0XQKBgAziadmYUd2Xj/3gJIpVxfBm+ZBD+Q751JEcbm3INLAxKKLgpWP+DfDx5/GV8txgrHLNvR8dFOgO5fCf8tDt9uRseJAEBfNGBKzRTLIO3xVIWZNoAJkiwB4w7g4lkknQgmeGIvIUi2S/uyPJPdRP3KNBdZx+RRklGc8kaxJAXqQ7AoGBAKGjzUkuuC4MPIZ9pO9ofjV3SMXF1WuX8PnDXH05OSfALcGtcV+bKpRA+WTelC3uWtw4VQ8ApYceMvWfHOUwoitg3Uqg+N5K0Sei5SjeMDrrxtI00JVw7lfcmjh16zZsZM5hsPA3TF7PsHHQEwv6m8QAnJuiGzXCU4abLHwHO+AVAoGBAOS8v/xj7grbUMbr4iZvQEOK6qA6I+iXuRbFY3U4aRRce/pVnldghCPaafLiW9ei9NqyPoVeWgXrAAULPkhI0lfxrJP53hPXjt/d37riky14IyhA4xEdjfE68XWoA0Hn+pNRIN2jNf7vFxtsGaPS47g7oU6LUL5/S3XpLtFqW35C', '0', null, null, null, null, null, 'aliPayStrategy', 'https://openapi.alipaydev.com/gateway.do');
+
+
+
+
+CREATE TABLE `payment_transaction` (
+  `ID` int(11) NOT NULL AUTO_INCREMENT COMMENT '主键ID',
+  `PAY_AMOUNT` int(11) NOT NULL COMMENT '支付金额',
+  `PAYMENT_STATUS` int(11) NOT NULL DEFAULT '0' COMMENT '支付状态 0待支付1已经支付2支付超时3支付失败',
+  `USER_ID` int(11) NOT NULL COMMENT '用户ID',
+  `ORDER_ID` varchar(32) NOT NULL COMMENT '订单号码',
+  `REVISION` int(11) DEFAULT NULL COMMENT '乐观锁',
+  `CREATED_BY` varchar(32) DEFAULT NULL COMMENT '创建人',
+  `CREATED_TIME` datetime DEFAULT NULL COMMENT '创建时间',
+  `UPDATED_BY` varchar(32) DEFAULT NULL COMMENT '更新人',
+  `UPDATED_TIME` datetime DEFAULT NULL COMMENT '更新时间',
+  `partypay_Id` varchar(255) DEFAULT NULL,
+  `payment_Id` varchar(255) DEFAULT NULL,
+  `payment_channel` varchar(255) DEFAULT NULL,
+  `order_Name` varchar(255) DEFAULT NULL,
+  PRIMARY KEY (`ID`)
+) ENGINE=InnoDB AUTO_INCREMENT=9 DEFAULT CHARSET=utf8 COMMENT='支付交易 ';

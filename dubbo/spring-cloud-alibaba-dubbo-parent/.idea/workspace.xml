@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9df0fc3f-fb6c-4c2f-9d70-de15fd01ca6c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-alibaba-dubbo-dependencies/spring-cloud-alibaba-dubbo-dependencies.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mayiketang/4/spring-cloud-2.0/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mayiketang/4/spring-cloud-2.0/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mayiketang/4/spring-cloud-2.0/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mayiketang/4/spring-cloud-2.0/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mayiketang/4/spring-cloud-2.0/.idea/spring-cloud-2.0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mayiketang/4/spring-cloud-2.0/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mayiketang/4/spring-cloud-2.0/springcloud-2.0-eureka-server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mayiketang/4/spring-cloud-2.0/springcloud-2.0-eureka-server/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mayiketang/4/spring-cloud-2.0/springcloud-2.0-eureka-server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mayiketang/4/spring-cloud-2.0/springcloud-2.0-eureka-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mayiketang/4/spring-cloud-2.0/springcloud-2.0-eureka-server/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mayiketang/4/spring-cloud-2.0/springcloud-2.0-eureka-server/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mayiketang/4/spring-cloud-2.0/springcloud-2.0-eureka-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mayiketang/4/spring-cloud-2.0/springcloud-2.0-eureka-server/src/main/java/com/itmayidu/springcloud2eurekaserver/Springcloud2EurekaServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mayiketang/4/spring-cloud-2.0/springcloud-2.0-eureka-server/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mayiketang/4/spring-cloud-2.0/springcloud-2.0-eureka-server/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mayiketang/4/spring-cloud-2.0/springcloud-2.0-eureka-server/src/test/java/com/itmayidu/springcloud2eurekaserver/Springcloud2EurekaServerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../笔记/1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../笔记/~$1.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/spring-cloud-alibaba-dubbo-parent.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/spring-cloud-alibaba-dubbo-parent.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-cloud-alibaba-dubbo/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springcloudbaba/alibaba/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../springcloudbaba/alibaba/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../笔记/dubbo" beforeDir="false" afterPath="$PROJECT_DIR$/../../笔记/dubbo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../笔记/支付" beforeDir="false" afterPath="$PROJECT_DIR$/../../笔记/支付" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1ac9fd0sP3f1W4wwL9yyyJIG6sa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../mayiketang/4/spring-cloud-2.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9df0fc3f-fb6c-4c2f-9d70-de15fd01ca6c" name="Default Changelist" comment="" />
+      <created>1587024119254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587024119254</updated>
+      <workItem from="1587024120877" duration="683000" />
+      <workItem from="1587029443387" duration="4292000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="267" y="19" key="#Inspections" timestamp="1587035995674">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="267" y="19" key="#Inspections/0.0.1280.680@0.0.1280.680" timestamp="1587035995674" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1587037294092">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1587037294092" />
+    <state x="254" y="41" key="RollbackChangesDialog" timestamp="1587029134675">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="254" y="41" key="RollbackChangesDialog/0.0.1280.680@0.0.1280.680" timestamp="1587029134675" />
+    <state x="28" y="1" key="new project wizard" timestamp="1587035716303">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="28" y="1" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1587035716303" />
+  </component>
+</project>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>v-axios</title>
+	</head>
+	<body>
+<input type="button" onclick="taotao();" value="触发事件">
+		<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+		<script type="text/jscript">
+			
+      function  taotao(){
+			// Make a request for a user with a given ID
+			axios.post('http://localhost:8010/register?password=18987665565&mobile=33999&userName=8898')
+			  .then(function (response) {
+			    // handle success
+			    console.log(response);
+			  })
+			  .catch(function (error) {
+			    // handle error
+				alert(error)
+			    console.log(error);
+			  })
+			 
+			
+			
+			  }
+			  
+			  </script>

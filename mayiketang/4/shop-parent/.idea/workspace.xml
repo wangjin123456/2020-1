@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3efd2936-2054-404e-be97-701c937c9e26" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shop-parent.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.txlcn/TransactionManager-7970.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/.txlcn/TransactionManager-7970.mv.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.txlcn/antmeite-order-8010.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/.txlcn/antmeite-order-8010.mv.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.txlcn/antmeite-stock-8020.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/.txlcn/antmeite-stock-8020.mv.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/member-service-impl/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/member-service-impl/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/member-service-impl/src/main/java/com/taotao/Appmember.java" beforeDir="false" afterPath="$PROJECT_DIR$/member-service-impl/src/main/java/com/taotao/Appmember.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/member-service-impl/src/main/java/com/taotao/api/member/DemoMemberServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/member-service-impl/src/main/java/com/taotao/api/member/DemoMemberServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/member-service-impl/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/member-service-impl/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service-impl/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order-service-impl/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service-impl/src/main/java/com/taotao/AppOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service-impl/src/main/java/com/taotao/AppOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service-impl/src/main/java/com/taotao/api/order/impl/IOrdetrServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service-impl/src/main/java/com/taotao/api/order/impl/IOrdetrServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service-impl/src/main/java/com/taotao/feign/StockFeign.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service-impl/src/main/java/com/taotao/feign/StockFeign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service-impl/src/main/java/com/taotao/mapper/OrderMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service-impl/src/main/java/com/taotao/mapper/OrderMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service-impl/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/order-service-impl/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-common/src/main/java/com/taotao/base/BaseApiService.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-common/src/main/java/com/taotao/base/BaseApiService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-common/src/main/java/com/taotao/contains/ApiConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-common/src/main/java/com/taotao/contains/ApiConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-parent.iml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-parent.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-service/service-member/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-service/service-member/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-service/service-member/src/main/java/com/taotao/entity/MemberEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-service/service-member/src/main/java/com/taotao/entity/MemberEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-service/service-member/src/main/java/com/taotao/member/IDemoMemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-service/service-member/src/main/java/com/taotao/member/IDemoMemberService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-service/service-order/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-service/service-order/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-service/service-order/src/main/java/com/taotao/entity/OrderEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-service/service-order/src/main/java/com/taotao/entity/OrderEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-service/service-order/src/main/java/com/taotao/order/IOrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-service/service-order/src/main/java/com/taotao/order/IOrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-service/stock-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-service/stock-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-service/stock-service/src/main/java/com/taotao/entity/StockEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-service/stock-service/src/main/java/com/taotao/entity/StockEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-service/stock-service/src/main/java/com/taotao/stock/StockService.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-service/stock-service/src/main/java/com/taotao/stock/StockService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-eureka/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-eureka/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-eureka/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-eureka/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-eureka/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-eureka/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-eureka/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-eureka/src/main/java/com/taotao/springcloudeureka/SpringcloudEurekaApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-eureka/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-eureka/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-eureka/src/test/java/com/taotao/springcloudeureka/SpringcloudEurekaApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-server/src/main/java/com/taotao/springcloudserver/SpringcloudServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-server/src/main/java/com/taotao/springcloudserver/SpringcloudServerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stock-service-impl/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/stock-service-impl/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stock-service-impl/src/main/java/com/taotao/AppStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/stock-service-impl/src/main/java/com/taotao/AppStock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stock-service-impl/src/main/java/com/taotao/api/stock/impl/StockServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/stock-service-impl/src/main/java/com/taotao/api/stock/impl/StockServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stock-service-impl/src/main/java/com/taotao/mapper/StockMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/stock-service-impl/src/main/java/com/taotao/mapper/StockMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stock-service-impl/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/stock-service-impl/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-dubbo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-dubbo/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-dubbo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-dubbo/src/main/java/com/codingapi/tx/dubbo/balance/ConsistentHashLoadBalanceProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-dubbo/src/main/java/com/codingapi/tx/dubbo/balance/LCNBalanceProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-dubbo/src/main/java/com/codingapi/tx/dubbo/balance/LeastActiveLoadBalanceProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-dubbo/src/main/java/com/codingapi/tx/dubbo/balance/RandomLoadBalanceProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-dubbo/src/main/java/com/codingapi/tx/dubbo/balance/RoundRobinLoadBalanceProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-dubbo/src/main/java/com/codingapi/tx/dubbo/filter/TransactionFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-dubbo/src/main/java/com/codingapi/tx/dubbo/interceptor/TransactionAspect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-dubbo/src/main/java/com/codingapi/tx/dubbo/interceptor/TxManagerInterceptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-dubbo/src/main/java/com/codingapi/tx/dubbo/listener/TransactionSocketListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-dubbo/src/main/java/com/codingapi/tx/dubbo/service/impl/ModelNameServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-dubbo/src/main/resources/META-INF/dubbo/com.alibaba.dubbo.rpc.Filter" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-dubbo/src/main/resources/META-INF/dubbo/com.alibaba.dubbo.rpc.cluster.LoadBalance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-dubbo/src/main/resources/banner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-motan/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-motan/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-motan/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-motan/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-motan/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-motan/.settings/org.eclipse.wst.common.project.facet.core.prefs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-motan/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-motan/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-motan/src/main/java/com/codingapi/tx/motan/balance/ActiveWeightLoadBalanceProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-motan/src/main/java/com/codingapi/tx/motan/balance/ConfigurableWeightLoadBalanceProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-motan/src/main/java/com/codingapi/tx/motan/balance/ConsistentHashLoadBalanceProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-motan/src/main/java/com/codingapi/tx/motan/balance/LCNBalanceProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-motan/src/main/java/com/codingapi/tx/motan/balance/LocalFirstLoadBalanceProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-motan/src/main/java/com/codingapi/tx/motan/balance/RandomLoadBalanceProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-motan/src/main/java/com/codingapi/tx/motan/balance/RoundRobinLoadBalanceProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-motan/src/main/java/com/codingapi/tx/motan/filter/TransactionFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-motan/src/main/java/com/codingapi/tx/motan/interceptor/TransactionAspect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-motan/src/main/java/com/codingapi/tx/motan/interceptor/TxManagerInterceptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-motan/src/main/java/com/codingapi/tx/motan/listener/TransactionSocketListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-motan/src/main/java/com/codingapi/tx/motan/service/impl/ModelNameServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-motan/src/main/resources/META-INF/services/com.weibo.api.motan.cluster.LoadBalance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-motan/src/main/resources/META-INF/services/com.weibo.api.motan.filter.Filter" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-motan/src/main/resources/banner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-motan/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-motan/target/classes/META-INF/maven/com.codingapi/transaction-motan/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-motan/target/classes/META-INF/maven/com.codingapi/transaction-motan/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-motan/target/classes/META-INF/services/com.weibo.api.motan.cluster.LoadBalance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-motan/target/classes/META-INF/services/com.weibo.api.motan.filter.Filter" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-motan/target/classes/banner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-motan/target/classes/com/codingapi/tx/motan/balance/ActiveWeightLoadBalanceProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-motan/target/classes/com/codingapi/tx/motan/balance/ConfigurableWeightLoadBalanceProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-motan/target/classes/com/codingapi/tx/motan/balance/ConsistentHashLoadBalanceProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-motan/target/classes/com/codingapi/tx/motan/balance/LCNBalanceProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-motan/target/classes/com/codingapi/tx/motan/balance/LocalFirstLoadBalanceProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-motan/target/classes/com/codingapi/tx/motan/balance/RandomLoadBalanceProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-motan/target/classes/com/codingapi/tx/motan/balance/RoundRobinLoadBalanceProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-motan/target/classes/com/codingapi/tx/motan/filter/TransactionFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-motan/target/classes/com/codingapi/tx/motan/interceptor/TransactionAspect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-motan/target/classes/com/codingapi/tx/motan/interceptor/TxManagerInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-motan/target/classes/com/codingapi/tx/motan/listener/TransactionSocketListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-motan/target/classes/com/codingapi/tx/motan/service/impl/ModelNameServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-springcloud/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-springcloud/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-springcloud/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-springcloud/src/main/java/com/codingapi/ribbon/loadbalancer/LcnLoadBalancerRule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-springcloud/src/main/java/com/codingapi/ribbon/loadbalancer/LcnNoOpLoadBalancerProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-springcloud/src/main/java/com/codingapi/ribbon/loadbalancer/LcnRibbonConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-springcloud/src/main/java/com/codingapi/ribbon/loadbalancer/LcnZoneAwareLoadBalancerProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-springcloud/src/main/java/com/codingapi/tx/RequestInterceptorConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-springcloud/src/main/java/com/codingapi/tx/TransactionConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-springcloud/src/main/java/com/codingapi/tx/springcloud/feign/TransactionRestTemplateInterceptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-springcloud/src/main/java/com/codingapi/tx/springcloud/http/TransactionHttpRequestInterceptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-springcloud/src/main/java/com/codingapi/tx/springcloud/interceptor/TransactionAspect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-springcloud/src/main/java/com/codingapi/tx/springcloud/interceptor/TxManagerInterceptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-springcloud/src/main/java/com/codingapi/tx/springcloud/listener/ServerListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-springcloud/src/main/java/com/codingapi/tx/springcloud/service/impl/ModelNameServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-springcloud/src/main/resources/META-INF/spring.factories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/transaction-springcloud/src/main/resources/banner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/annotation/ITxTransaction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/annotation/TxTransaction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/aop/bean/TxCompensateLocal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/aop/bean/TxTransactionInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/aop/bean/TxTransactionLocal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/aop/service/AspectBeforeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/aop/service/TransactionServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/aop/service/TransactionServerFactoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/aop/service/impl/AspectBeforeServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/aop/service/impl/TransactionServerFactoryServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/aop/service/impl/TxDefaultTransactionServerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/aop/service/impl/TxRunningNoTransactionServerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/aop/service/impl/TxRunningTransactionServerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/aop/service/impl/TxStartTransactionServerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/compensate/model/CompensateInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/compensate/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/compensate/service/CompensateService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/compensate/service/impl/CompensateServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/config/ConfigReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/config/service/TxManagerTxUrlService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/control/LCNTransactionAspectSupport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/control/service/IActionService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/control/service/TransactionControlService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/control/service/impl/ActionCServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/control/service/impl/ActionTServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/control/service/impl/TransactionControlServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/datasource/AbstractResourceProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/datasource/ICallClose.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/datasource/ILCNConnection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/datasource/ILCNResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/datasource/ILCNTransactionControl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/datasource/aspect/DataSourceAspect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/datasource/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/datasource/service/DataSourceService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/datasource/service/impl/DataSourceServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/framework/task/TaskGroup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/framework/task/TaskGroupManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/framework/task/TaskState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/framework/task/TxTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/framework/thread/HookRunnable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/framework/utils/MethodUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/framework/utils/SerializerUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/framework/utils/SocketManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/framework/utils/SocketUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/framework/utils/serializer/ISerializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/framework/utils/serializer/ProtostuffSerializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/framework/utils/serializer/SchemaCache.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/listener/service/InitService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/listener/service/ModelNameService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/listener/service/impl/InitServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/model/Request.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/model/TransactionInvocation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/model/TxGroup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/model/TxServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/netty/handler/TransactionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/netty/service/MQTxManagerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/netty/service/NettyControlService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/netty/service/NettyDistributeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/netty/service/NettyService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/netty/service/TxManagerHttpRequestHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/netty/service/TxManagerHttpRequestService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/netty/service/impl/MQTxManagerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/netty/service/impl/NettyControlServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/netty/service/impl/NettyDistributeServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/netty/service/impl/NettyServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-client/src/main/java/com/codingapi/tx/netty/utils/IpAddressUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/build/package.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/CorsConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/RestConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/ServletInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/TxManagerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/api/controller/AdminController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/api/controller/TxManagerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/api/service/ApiAdminService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/api/service/ApiModelService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/api/service/ApiTxManagerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/api/service/impl/ApiAdminServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/api/service/impl/ApiModelServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/api/service/impl/ApiTxManagerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/compensate/dao/CompensateDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/compensate/dao/impl/CompensateDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/compensate/model/TransactionCompensateMsg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/compensate/model/TxModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/compensate/service/CompensateService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/compensate/service/impl/CompensateServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/config/ConfigReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/framework/utils/SocketManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/framework/utils/SocketUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/listener/ApplicationStartListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/listener/ServerListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/listener/service/InitService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/listener/service/impl/InitServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/manager/ModelInfoManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/manager/service/LoadBalanceService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/manager/service/MicroService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/manager/service/TxManagerSenderService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/manager/service/TxManagerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/manager/service/impl/LoadBalanceServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/manager/service/impl/MicroServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/manager/service/impl/TxManagerSenderServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/manager/service/impl/TxManagerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/model/ChannelSender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/model/LoadBalanceInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/model/ModelInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/model/ModelName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/model/TxServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/model/TxState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/netty/handler/TxCoreServerHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/netty/model/TxGroup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/netty/model/TxInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/netty/service/IActionService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/netty/service/NettyServerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/netty/service/NettyService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/netty/service/impl/ActionATGServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/netty/service/impl/ActionCGServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/netty/service/impl/ActionCKGServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/netty/service/impl/ActionCServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/netty/service/impl/ActionCTGServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/netty/service/impl/ActionGLBServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/netty/service/impl/ActionHServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/netty/service/impl/ActionPLBServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/netty/service/impl/ActionRGServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/netty/service/impl/ActionTServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/netty/service/impl/ActionUMIServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/netty/service/impl/BaseSignalTaskService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/netty/service/impl/NettyServerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/netty/service/impl/NettyServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/redis/JedisClusterConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/redis/RedisConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/redis/RedisProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/redis/service/RedisServerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/java/com/codingapi/tm/redis/service/impl/RedisServerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/resources/banner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/resources/static/log.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/resources/static/model.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/resources/static/static/bootstrap/css/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/resources/static/static/bootstrap/css/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/resources/static/static/bootstrap/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/resources/static/static/bootstrap/css/bootstrap-theme.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/resources/static/static/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/resources/static/static/bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/resources/static/static/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/resources/static/static/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/resources/static/static/bootstrap/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/resources/static/static/bootstrap/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/resources/static/static/bootstrap/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/resources/static/static/bootstrap/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/resources/static/static/bootstrap/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/resources/static/static/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/resources/static/static/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/resources/static/static/bootstrap/js/npm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/resources/static/static/common/common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/resources/static/static/common/http.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/resources/static/static/common/jbase64.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/resources/static/static/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/resources/static/static/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/resources/static/static/jquery/jquery-2.2.3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/resources/static/static/jquery/jquery.blockUI-css.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/resources/static/static/jquery/jquery.blockUI.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/resources/static/static/jquery/jquery.form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/resources/static/static/jquery/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/resources/static/static/log.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-manager/src/main/resources/static/static/model.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-plugins-db/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-plugins-db/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-plugins-db/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-plugins-db/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-plugins-db/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-plugins-db/.settings/org.eclipse.wst.common.project.facet.core.prefs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-plugins-db/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-plugins-db/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-plugins-db/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/AbstractTransactionThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/LCNConnection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/LCNDBConnection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/LCNStartConnection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-plugins-db/src/main/java/com/codingapi/tx/datasource/relational/LCNTransactionDataSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-plugins-db/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-plugins-db/target/classes/META-INF/maven/com.codingapi/tx-plugins-db/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-plugins-db/target/classes/META-INF/maven/com.codingapi/tx-plugins-db/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-plugins-db/target/classes/com/codingapi/tx/datasource/relational/AbstractTransactionThread$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-plugins-db/target/classes/com/codingapi/tx/datasource/relational/AbstractTransactionThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-plugins-db/target/classes/com/codingapi/tx/datasource/relational/LCNConnection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-plugins-db/target/classes/com/codingapi/tx/datasource/relational/LCNDBConnection$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-plugins-db/target/classes/com/codingapi/tx/datasource/relational/LCNDBConnection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-plugins-db/target/classes/com/codingapi/tx/datasource/relational/LCNStartConnection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn-2.0兼容版/tx-lcn-2.0兼容版，未官方正版/tx-plugins-db/target/classes/com/codingapi/tx/datasource/relational/LCNTransactionDataSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../txlcn-demo" beforeDir="false" afterPath="$PROJECT_DIR$/../txlcn-demo" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1bRdy2lqdINKPIiQdLIitmqMeix" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../txlcn-demo" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.taotao.contains" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\works\2020\mayiketang\4\shop-parent\stock-service-impl\src\main\resources" />
+      <recent name="F:\works\2020\mayiketang\4\shop-parent\order-service-impl\src\main\resources" />
+      <recent name="F:\works\2020\mayiketang\4\shop-parent\shop-common\src\main\java\com\taotao\base" />
+      <recent name="F:\works\2020\mayiketang\4\shop-parent\springcloud-server\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AppOrder">
+    <configuration name="AppOrder" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="order-service-impl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.taotao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.taotao.AppOrder" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppStock" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="stock-service-impl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.taotao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.taotao.AppStock" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Appmember" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="member-service-impl" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.taotao.Appmember" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringcloudServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloud-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.taotao.springcloudserver.SpringcloudServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.SpringcloudServerApplication" />
+      <item itemvalue="Spring Boot.Appmember" />
+      <item itemvalue="Spring Boot.AppStock" />
+      <item itemvalue="Spring Boot.AppOrder" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.AppOrder" />
+        <item itemvalue="Spring Boot.AppStock" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3efd2936-2054-404e-be97-701c937c9e26" name="Default Changelist" comment="" />
+      <created>1588599090507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588599090507</updated>
+      <workItem from="1588599093227" duration="5535000" />
+      <workItem from="1588605756457" duration="13615000" />
+      <workItem from="1588728639909" duration="198000" />
+      <workItem from="1588728863618" duration="1049000" />
+      <workItem from="1588763871801" duration="1686000" />
+      <workItem from="1588765859469" duration="1226000" />
+      <workItem from="1588850334016" duration="763000" />
+      <workItem from="1588861342792" duration="277000" />
+      <workItem from="1588861696790" duration="689000" />
+      <workItem from="1588862474292" duration="1682000" />
+      <workItem from="1588864765466" duration="56000" />
+      <workItem from="1588865147363" duration="683000" />
+      <workItem from="1588899244527" duration="287000" />
+      <workItem from="1588903034977" duration="360000" />
+      <workItem from="1588937616225" duration="2826000" />
+      <workItem from="1588940787101" duration="294000" />
+      <workItem from="1588941176089" duration="596000" />
+      <workItem from="1588945704441" duration="1255000" />
+      <workItem from="1588947445494" duration="167000" />
+      <workItem from="1588947644681" duration="289000" />
+      <workItem from="1588948321242" duration="1954000" />
+      <workItem from="1588951549280" duration="86000" />
+      <workItem from="1588951772066" duration="68000" />
+      <workItem from="1588952189918" duration="155000" />
+      <workItem from="1588990182072" duration="2530000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="242" y="0" key="#Project_Structure" timestamp="1588763182625">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="242" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1588763182625" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588864821627">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1588864821627" />
+    <state x="719" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1588603112321">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="719" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1588603112321" />
+    <state x="485" y="266" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1588601478705">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="485" y="266" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1588601478705" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1588949039876">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1588949039876" />
+    <state width="1189" height="286" key="GridCell.Tab.0.bottom" timestamp="1588949587161">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1189" height="286" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588949587161" />
+    <state width="1189" height="286" key="GridCell.Tab.0.center" timestamp="1588949587161">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1189" height="286" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1588949587161" />
+    <state width="1189" height="286" key="GridCell.Tab.0.left" timestamp="1588949587161">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1189" height="286" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1588949587161" />
+    <state width="1189" height="286" key="GridCell.Tab.0.right" timestamp="1588949587161">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1189" height="286" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1588949587161" />
+    <state width="1189" height="286" key="GridCell.Tab.1.bottom" timestamp="1588949585358">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1189" height="286" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588949585358" />
+    <state width="1189" height="286" key="GridCell.Tab.1.center" timestamp="1588949585358">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1189" height="286" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1588949585358" />
+    <state width="1189" height="286" key="GridCell.Tab.1.left" timestamp="1588949585358">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1189" height="286" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1588949585358" />
+    <state width="1189" height="286" key="GridCell.Tab.1.right" timestamp="1588949585358">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1189" height="286" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1588949585358" />
+    <state width="1189" height="286" key="GridCell.Tab.2.bottom" timestamp="1588949585358">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1189" height="286" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588949585358" />
+    <state width="1189" height="286" key="GridCell.Tab.2.center" timestamp="1588949585358">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1189" height="286" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1588949585358" />
+    <state width="1189" height="286" key="GridCell.Tab.2.left" timestamp="1588949585358">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1189" height="286" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1588949585358" />
+    <state width="1189" height="286" key="GridCell.Tab.2.right" timestamp="1588949585358">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1189" height="286" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1588949585358" />
+    <state x="342" y="0" key="Maven.ArtifactSearchDialog" timestamp="1588765507952">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="342" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1588765507952" />
+    <state x="56" y="21" width="1224" height="659" key="new project wizard" timestamp="1589240458513">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="56" y="21" width="1224" height="659" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1589240458513" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/shop_parent$AppOrder.ic" NAME="AppOrder Coverage Results" MODIFIED="1588679298811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.taotao.*</FILTER>
+    </SUITE>
+  </component>
+</project>

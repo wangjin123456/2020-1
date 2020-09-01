@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="myshop-commons-mapper" />
+        <module name="myshop-service-email" />
+        <module name="myshop-service-gateway" />
+        <module name="myshop-commons-consumer" />
+        <module name="myshop-commons" />
+        <module name="myshop-commons-service" />
+        <module name="myshop-database" />
+        <module name="myshop-service-reg" />
+        <module name="myshop-commons-domain" />
+        <module name="myshop-service-consumer-item" />
+        <module name="myshop-external-skywalking" />
+        <module name="myshop-service-provider-item" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="myshop-commons" target="1.8" />
+      <module name="myshop-commons-consumer" target="1.8" />
+      <module name="myshop-commons-domain" target="1.8" />
+      <module name="myshop-commons-mapper" target="1.8" />
+      <module name="myshop-commons-service" target="1.8" />
+      <module name="myshop-database" target="1.8" />
+      <module name="myshop-dependencies" target="1.8" />
+      <module name="myshop-external-skywalking" target="1.8" />
+      <module name="myshop-service-consumer-item" target="1.8" />
+      <module name="myshop-service-email" target="1.8" />
+      <module name="myshop-service-gateway" target="1.8" />
+      <module name="myshop-service-provider-item" target="1.8" />
+      <module name="myshop-service-reg" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="myshop-commons" options="-parameters" />
+      <module name="myshop-commons-consumer" options="-parameters" />
+      <module name="myshop-commons-domain" options="-parameters" />
+      <module name="myshop-commons-mapper" options="-parameters" />
+      <module name="myshop-commons-service" options="-parameters" />
+      <module name="myshop-database" options="-parameters" />
+      <module name="myshop-external-skywalking" options="-parameters" />
+      <module name="myshop-service-consumer-item" options="-parameters" />
+      <module name="myshop-service-email" options="-parameters" />
+      <module name="myshop-service-gateway" options="-parameters" />
+      <module name="myshop-service-provider-item" options="-parameters" />
+      <module name="myshop-service-reg" options="-parameters" />
+    </option>
+  </component>
+</project>

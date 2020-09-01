@@ -1,0 +1,18 @@
+server:
+  port:  8021
+spring:
+   application:
+      name: rabbitmq-provider
+   rabbitmq:
+     host: 127.0.0.1
+     port:  5672
+     username: sy
+     password: aaaa1111
+     virtual-host:  /yingying_rabbitmq  #这里要去rabbitmq里面创建 /yingying_rabbitmq   并且授权，
+     #消息确认配置项
+
+     #确认消息已发送到交换机（Exchange)
+
+
+     publisher-confirms: true
+     publisher-returns: true #确认消息已发送到队列（）Queue

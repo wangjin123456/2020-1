@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d3eb6d8-a2ae-4b65-b60d-972579a2ccf4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YcZjUdHW3FA5GUHQQvVt2hFSVQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../springcloudbaba/alibaba" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.taotao.rabbitmqconsumer.config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.RabbitmqConsumerApplication">
+    <configuration name="Consumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.taotao.rabbitmqconnect.Consumer" />
+      <module name="rabbitmq-connect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.taotao.rabbitmqconnect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Producer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.taotao.rabbitmqconnect.Producer" />
+      <module name="rabbitmq-connect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.taotao.rabbitmqconnect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.taotao.rabbitmqconnect.QueueTest" />
+      <module name="rabbitmq-connect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.taotao.rabbitmqconnect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitmqConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rabbitmq-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.taotao.rabbitmqconsumer.RabbitmqConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitmqProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rabbitmq-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.taotao.rabbitmqprovider.RabbitmqProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Consumer" />
+        <item itemvalue="Application.Producer" />
+        <item itemvalue="Application.QueueTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d3eb6d8-a2ae-4b65-b60d-972579a2ccf4" name="Default Changelist" comment="" />
+      <created>1583243977863</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583243977863</updated>
+      <workItem from="1583243979025" duration="75000" />
+      <workItem from="1584539634367" duration="809000" />
+      <workItem from="1584575054867" duration="27050000" />
+      <workItem from="1584622461585" duration="6973000" />
+      <workItem from="1584659181065" duration="7345000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584578513433">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1584578513433" />
+    <state x="704" y="35" key="#com.intellij.ide.util.MemberChooser" timestamp="1584606554495">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="704" y="35" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1584606554495" />
+    <state x="488" y="229" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584579484319">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="488" y="229" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1584579484319" />
+    <state width="438" height="463" key="DebuggerActiveHint" timestamp="1584669688281">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="438" height="463" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1584669688281" />
+    <state x="721" y="125" key="FileChooserDialogImpl" timestamp="1584539648317">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="721" y="125" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1584539648317" />
+    <state width="1237" height="129" key="GridCell.Tab.0.bottom" timestamp="1584673478315">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="129" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584673478315" />
+    <state width="1237" height="129" key="GridCell.Tab.0.center" timestamp="1584673478315">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="129" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1584673478315" />
+    <state width="1237" height="129" key="GridCell.Tab.0.left" timestamp="1584673478315">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="129" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1584673478315" />
+    <state width="1237" height="129" key="GridCell.Tab.0.right" timestamp="1584673478315">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="129" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1584673478315" />
+    <state width="1237" height="129" key="GridCell.Tab.1.bottom" timestamp="1584673478315">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="129" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584673478315" />
+    <state width="1237" height="129" key="GridCell.Tab.1.center" timestamp="1584673478315">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="129" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1584673478315" />
+    <state width="1237" height="129" key="GridCell.Tab.1.left" timestamp="1584673478315">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="129" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1584673478315" />
+    <state width="1237" height="129" key="GridCell.Tab.1.right" timestamp="1584673478315">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="129" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1584673478315" />
+    <state width="1237" height="129" key="GridCell.Tab.2.bottom" timestamp="1584673478316">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="129" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584673478316" />
+    <state width="1237" height="129" key="GridCell.Tab.2.center" timestamp="1584673478315">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="129" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1584673478315" />
+    <state width="1237" height="129" key="GridCell.Tab.2.left" timestamp="1584673478315">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="129" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1584673478315" />
+    <state width="1237" height="129" key="GridCell.Tab.2.right" timestamp="1584673478316">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="129" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1584673478316" />
+    <state x="284" y="0" key="SettingsEditor" timestamp="1584585951816">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="284" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1584585951816" />
+    <state width="647" height="347" key="XDebugger.FullValuePopup" timestamp="1584669688269">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="647" height="347" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1584669688269" />
+    <state x="629" y="111" key="extract.method.dialog" timestamp="1584613644625">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="629" y="111" key="extract.method.dialog/0.0.1280.680@0.0.1280.680" timestamp="1584613644625" />
+    <state x="417" y="53" width="863" height="598" key="new project wizard" timestamp="1584673476920">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="417" y="53" width="863" height="598" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1584673476920" />
+    <state x="555" y="135" key="run.anything.popup" timestamp="1584648032430">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="555" y="135" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1584648032430" />
+    <state x="609" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1584661128543">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="609" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1584661128543" />
+  </component>
+</project>

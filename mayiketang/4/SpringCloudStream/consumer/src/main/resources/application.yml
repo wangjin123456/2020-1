@@ -1,0 +1,16 @@
+server:
+  port: 9004
+spring:
+  application:
+    name: spingcloud-stream-producer
+#####默认是本地配置
+#  rabbitmq:
+#    host: 127.0.0.1
+#    port: 5672
+#    username: guest
+#    password: guest
+  cloud:
+    stream:
+      binders:
+        my_stream_channel:  ####指定管道的名称
+            group: stream

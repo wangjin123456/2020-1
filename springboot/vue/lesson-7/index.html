@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script src="https://cdn.jsdelivr.net/npm/vue@2.5.21/dist/vue.js"></script>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<div id="vue">
+    单行文本： <input type="text" v-model="message" />&nbsp;
+ </br>
+    下拉框：
+    <select v-model="selected">
+        <option disabled value="">请选择</option>
+        <option>A</option>
+        <option>B</option>
+        <option>C</option>
+    </select>
+<span>选中的值： {{ selected}}</span>
+</br>
+    多行文本：<textarea v-model="message1"></textarea>多行文本{{message}}
+</br>
+    单复选框： <input type="checkbox" id="checkbox" v-model="checked">
+</br>
+多复选框：
+    多复选框：
+    <input type="checkbox" id="jack" value="Jack" v-model="checkedNames">
+    <label for="jack">Jack</label>
+    <input type="checkbox" id="john" value="John" v-model="checkedNames">
+    <label for="john">John</label>
+    <input type="checkbox" id="mike" value="Mike" v-model="checkedNames">
+    <label for="mike">Mike</label>
+    <span>选中的值: {{ checkedNames }}</span>
+</br>
+单选按钮：
+<input type="radio" id="one" value="one" v-model="picked">
+<label for="one">one</label>
+<input type="radio" id="two" value="Two" v-model="picked">
+<label for="two">Two</label>
+<span>选中的值： {{ picked }}</span>
+</div>
+<script type="text/javascript">
+    var vm = new Vue({
+        el: '#vue',
+        data: {
+            message: "hello Bue",
+            selected: "",
+            message1: "hello Testarea",
+            checked: false,
+            checkedNames: [],
+            picked: '',
+        }
+    });
+
+</script>
+
+
+</body>
+</html>

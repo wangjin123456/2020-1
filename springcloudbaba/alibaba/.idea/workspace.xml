@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="653e0153-3119-44b3-a9b3-e4e9c524c902" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../dubbo/spring-cloud-alibaba-dubbo-parent/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../dubbo/spring-cloud-alibaba-dubbo-parent/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dubbo/spring-cloud-alibaba-dubbo-parent/.idea/spring-cloud-alibaba-dubbo-parent.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../dubbo/spring-cloud-alibaba-dubbo-parent/.idea/spring-cloud-alibaba-dubbo-parent.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dubbo/spring-cloud-alibaba-dubbo-parent/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../dubbo/spring-cloud-alibaba-dubbo-parent/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dubbo/spring-cloud-alibaba-dubbo-parent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../dubbo/spring-cloud-alibaba-dubbo-parent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dubbo/spring-cloud-alibaba-dubbo/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/program/apache-maven" />
+        <option name="userSettingsFile" value="D:\program\apache-maven\conf\setting.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-Xms128m -Xmx512m -Duser.language=zh -Dfile.encoding=UTF-8" />
+  </component>
+  <component name="ProjectId" id="1XTxPUIdWW0juxRMZfRUn4uFcAQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../my-shop" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.funtl.hello.spring.cloud.alibaba.nacos.provider" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\works\2020\springcloudbaba\alibaba\hello-spring-cloud-external-skywalking" />
+      <recent name="E:\works\2020\SpringCloudAlibaba\alibaba\hello-spring-cloud-alibaba-nacos-provider\src\main\resources" />
+      <recent name="E:\works\2020\SpringCloudAlibaba\alibaba\hello-spring-cloud-alibaba-nacos-provider1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\works\2020\SpringCloudAlibaba\alibaba\hello-spring-cloud-alibaba-nacos-consumer\src\main\java" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:9092/echo/hi" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.RocketMQConsumerApplication">
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="hello-spring-cloud-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.funtl.hello.spring.cloud.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.funtl.hello.spring.cloud.gateway.GatewayApplication" />
+      <option name="VM_PARAMETERS" value="-javaagent:F:\works\2020\springcloudbaba\alibaba\hello-spring-cloud-external-skywalking\agent\skywalking-agent.jar -Dskywalking.agent.service_name=spring-gateway -Dskywalking.collector.backend_service=localhost:11800" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NacosConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hello-spring-cloud-alibaba-nacos-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.funtl.hello.spring.cloud.alibaba.nacos.consumer.NacosConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NacosConsumerFeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="hello-spring-cloud-alibaba-nacos-consumer-feign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.funtl.hello.spring.cloud.alibaba.nacos.consumer.feign.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.funtl.hello.spring.cloud.alibaba.nacos.consumer.feign.NacosConsumerFeignApplication" />
+      <option name="VM_PARAMETERS" value="-javaagent:E:\works\2020\springcloudbaba\alibaba\hello-spring-cloud-external-skywalking\agent\skywalking-agent.jar -Dskywalking.agent.service_name=nacos-consumer-feign -Dskywalking.collector.backend_service=127.0.0.1:11800" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NacosProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hello-spring-cloud-alibaba-nacos-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.funtl.hello.spring.cloud.alibaba.nacos.provider.NacosProviderApplication" />
+      <option name="ACTIVE_PROFILES" value="prod" />
+      <option name="VM_PARAMETERS" value="-javaagent:E:\works\2020\springcloudbaba\alibaba\hello-spring-cloud-external-skywalking\agent\skywalking-agent.jar -Dskywalking.agent.service_name=nacos-provider -Dskywalking.collector.backend_service=localhost:11800" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RocketMQConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="hello-spring-cloud-alibaba-rocketmq-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.funtl.hello.spring.cloud.alibaba.rocketmq.consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.funtl.hello.spring.cloud.alibaba.rocketmq.consumer.RocketMQConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RocketMQProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hello-spring-cloud-alibaba-rocketmq-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="hello.spring.cloud.alibaba.rocketmq.provider.RocketMQProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.NacosProviderApplication" />
+      <item itemvalue="Spring Boot.NacosConsumerApplication" />
+      <item itemvalue="Spring Boot.RocketMQProviderApplication" />
+      <item itemvalue="Spring Boot.GatewayApplication" />
+      <item itemvalue="Spring Boot.NacosConsumerFeignApplication" />
+      <item itemvalue="Spring Boot.RocketMQConsumerApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.RocketMQConsumerApplication" />
+        <item itemvalue="Spring Boot.GatewayApplication" />
+        <item itemvalue="Spring Boot.NacosConsumerFeignApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="653e0153-3119-44b3-a9b3-e4e9c524c902" name="Default Changelist" comment="" />
+      <created>1581083861211</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581083861211</updated>
+      <workItem from="1581083862509" duration="3459000" />
+      <workItem from="1581089400506" duration="6588000" />
+      <workItem from="1581128123971" duration="2692000" />
+      <workItem from="1581148335076" duration="9628000" />
+      <workItem from="1581438659158" duration="816000" />
+      <workItem from="1581439508113" duration="1451000" />
+      <workItem from="1581440981659" duration="9435000" />
+      <workItem from="1582074857235" duration="642000" />
+      <workItem from="1582075521175" duration="410000" />
+      <workItem from="1582075956006" duration="307000" />
+      <workItem from="1582076284225" duration="3553000" />
+      <workItem from="1582080601173" duration="3124000" />
+      <workItem from="1582243215028" duration="3728000" />
+      <workItem from="1582350981897" duration="11179000" />
+      <workItem from="1582817815731" duration="2324000" />
+      <workItem from="1582972344330" duration="677000" />
+      <workItem from="1583423143394" duration="991000" />
+      <workItem from="1583763511632" duration="7679000" />
+      <workItem from="1584028394771" duration="6347000" />
+      <workItem from="1584504653085" duration="336000" />
+      <workItem from="1584505009903" duration="686000" />
+      <workItem from="1584520450506" duration="561000" />
+      <workItem from="1584539656911" duration="785000" />
+      <workItem from="1584541074984" duration="737000" />
+      <workItem from="1584575053266" duration="1909000" />
+      <workItem from="1584696905849" duration="5830000" />
+      <workItem from="1584844127084" duration="775000" />
+      <workItem from="1584866778316" duration="140000" />
+      <workItem from="1584867542207" duration="59000" />
+      <workItem from="1584871693577" duration="4006000" />
+      <workItem from="1584954307925" duration="2787000" />
+      <workItem from="1585032834295" duration="794000" />
+      <workItem from="1587029139286" duration="659000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="331" y="0" key="#Notifications" timestamp="1581089506161">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="331" y="0" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1581089506161" />
+    <state x="232" y="1" key="#Project_Structure" timestamp="1581088080452">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="232" y="1" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1581088080452" />
+    <state x="94" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584710105767">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="94" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1584710105767" />
+    <state x="471" y="146" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581089498231">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="471" y="146" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1581089498231" />
+    <state x="678" y="56" key="#com.intellij.ide.util.MemberChooser" timestamp="1584929495794">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="678" y="56" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1584929495794" />
+    <state x="369" y="129" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582554212863">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="369" y="129" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1582554212863" />
+    <state x="0" y="206" width="1280" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1581129780364">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="206" width="1280" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1581129780364" />
+    <state x="415" y="190" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1584708639459">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="415" y="190" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.680@0.0.1280.680" timestamp="1584708639459" />
+    <state x="420" y="97" key="FileChooserDialogImpl" timestamp="1585032898956">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="420" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1585032898956" />
+    <state width="1019" height="226" key="GridCell.Tab.0.bottom" timestamp="1584957441734">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1019" height="226" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584957441734" />
+    <state width="1019" height="226" key="GridCell.Tab.0.center" timestamp="1584957441734">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1019" height="226" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1584957441734" />
+    <state width="1019" height="226" key="GridCell.Tab.0.left" timestamp="1584957441733">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1019" height="226" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1584957441733" />
+    <state width="1019" height="226" key="GridCell.Tab.0.right" timestamp="1584957441734">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1019" height="226" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1584957441734" />
+    <state width="1019" height="226" key="GridCell.Tab.1.bottom" timestamp="1584957441734">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1019" height="226" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584957441734" />
+    <state width="1019" height="226" key="GridCell.Tab.1.center" timestamp="1584957441734">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1019" height="226" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1584957441734" />
+    <state width="1019" height="226" key="GridCell.Tab.1.left" timestamp="1584957441734">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1019" height="226" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1584957441734" />
+    <state width="1019" height="226" key="GridCell.Tab.1.right" timestamp="1584957441734">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1019" height="226" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1584957441734" />
+    <state width="1019" height="163" key="GridCell.Tab.2.bottom" timestamp="1584797668477">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1019" height="163" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584797668477" />
+    <state width="1019" height="163" key="GridCell.Tab.2.center" timestamp="1584797668476">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1019" height="163" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1584797668476" />
+    <state width="1019" height="163" key="GridCell.Tab.2.left" timestamp="1584797668476">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1019" height="163" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1584797668476" />
+    <state width="1019" height="163" key="GridCell.Tab.2.right" timestamp="1584797668477">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1019" height="163" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1584797668477" />
+    <state x="340" y="0" key="Maven.ArtifactSearchDialog" timestamp="1584929739078">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="340" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1584929739078" />
+    <state x="284" y="0" key="SettingsEditor" timestamp="1584954358048">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="284" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1584954358048" />
+    <state x="324" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1584505013727">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="324" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1584505013727" />
+    <state x="306" y="32" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581438934286">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="306" y="32" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680@0.0.1280.680" timestamp="1581438934286" />
+    <state x="29" y="0" key="new project wizard" timestamp="1584928726383">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="29" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1584928726383" />
+    <state x="529" y="156" key="run.anything.popup" timestamp="1581436845594">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="529" y="156" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1581436845594" />
+    <state x="437" y="1" key="search.everywhere.popup" timestamp="1581128408549">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="437" y="1" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1581128408549" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/alibaba$NacosProvider.ic" NAME="NacosProvider Coverage Results" MODIFIED="1581090614973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.hello.provider.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/alibaba$NacosProviderApplication.ic" NAME="NacosProviderApplication Coverage Results" MODIFIED="1582417491034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/alibaba$NacosConsumerFeignApplication.ic" NAME="NacosConsumerFeignApplication Coverage Results" MODIFIED="1581438949146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.funtl.hello.spring.cloud.alibaba.nacos.consumer.feign.*</FILTER>
+    </SUITE>
+  </component>
+</project>

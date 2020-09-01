@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script src="https://cdn.jsdelivr.net/npm/vue@2.5.21/dist/vue.js"></script>
+ <div id="vue">
+     <p>调用当前时间的方法：{{ currentTime1() }}</p>
+     <p>当前时间的计算属性：{{ currentTime2 }}</p>
+ </div>
+
+<script type="text/javascript">
+    var vm=new Vue({
+       el: "#vue",
+       data: {
+           message: "Hello Vue",
+       },
+     methods:{
+           currentTime1: function () {
+                     return Date.now();
+           }
+     },
+        computed:{
+           currentTime2: function () {
+              this.message;
+              return Date.now();
+           }
+        }
+    });
+
+</script>
+
+</body>
+</html>

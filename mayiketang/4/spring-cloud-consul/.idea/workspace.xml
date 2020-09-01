@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="78b5e0f8-1541-452e-80c5-8cd609fe1abe" name="Default Changelist" comment="提交consul 注册中心配置代码">
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-2.0/springcloud_2_eureka_order/src/main/java/com/itmayido/springcloud_2_eureka_order/api/controller/ExtRibbonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../笔记/~$学习笔记.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-cloud-2.0/springcloud-2.0-eureka-member/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-cloud-2.0/springcloud-2.0-eureka-member/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-cloud-2.0/springcloud-2.0-eureka-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-cloud-2.0/springcloud-2.0-eureka-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-cloud-2.0/springcloud_2_0_eureka_server_9001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-cloud-2.0/springcloud_2_0_eureka_server_9001/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-cloud-2.0/springcloud_2_eureka_order/src/main/java/com/itmayido/springcloud_2_eureka_order/api/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-cloud-2.0/springcloud_2_eureka_order/src/main/java/com/itmayido/springcloud_2_eureka_order/api/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-cloud-2.0/springcloud_2_eureka_order/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-cloud-2.0/springcloud_2_eureka_order/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6/juhezf/mayi-api-demo/src/main/java/com/itmayido/mayiapidemo/controller/PayController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../6/juhezf/mayi-api-demo/src/main/java/com/itmayido/mayiapidemo/controller/PayController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6/juhezf/mayi-api-demo/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../6/juhezf/mayi-api-demo/src/main/resources/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6/juhezf/mayi-api-demo/src/main/resources/static/play.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../6/juhezf/mayi-api-demo/src/main/resources/static/play.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../笔记/学习笔记.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../笔记/学习笔记.docx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1ajhfUFbydeRKeU2axyJQ8I0Dtk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\works\2020\mayiketang\4\spring-cloud-consul\spring-cloud-consul-order\src\main\resources" />
+      <recent name="F:\works\2020\mayiketang\4\spring-cloud-consul\spring-cloud-consul-member\src\main\resources" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8007/orderToMember" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringCloudConsulOrderApplication">
+    <configuration name="SpringCloudConsulOrderApplication#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/SpringCloudConsulOrderApplication.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="SpringCloudConsulMemberApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-consul-member" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmayido.springcloudconsulmember.SpringCloudConsulMemberApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudConsulOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-consul-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmayido.springcloudconsulorder.SpringCloudConsulOrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.SpringCloudConsulOrderApplication#1" />
+        <item itemvalue="HTTP Request.generated-requests#1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78b5e0f8-1541-452e-80c5-8cd609fe1abe" name="Default Changelist" comment="" />
+      <created>1587255013241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587255013241</updated>
+      <workItem from="1587255014517" duration="5603000" />
+      <workItem from="1587372491793" duration="14000" />
+    </task>
+    <task id="LOCAL-00001" summary="提交consul 注册中心配置代码">
+      <created>1587259361481</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587259361481</updated>
+    </task>
+    <task id="LOCAL-00002" summary="提交consul 注册中心配置代码">
+      <created>1587259368111</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587259368111</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="提交consul 注册中心配置代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交consul 注册中心配置代码" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="490" y="156" key="FileChooserDialogImpl" timestamp="1587266732296">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="490" y="156" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1587266732296" />
+    <state width="732" height="156" key="GridCell.Tab.0.bottom" timestamp="1587266734005">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="732" height="156" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587266734005" />
+    <state width="732" height="156" key="GridCell.Tab.0.center" timestamp="1587266734005">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="732" height="156" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587266734005" />
+    <state width="732" height="156" key="GridCell.Tab.0.left" timestamp="1587266734005">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="732" height="156" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587266734005" />
+    <state width="732" height="156" key="GridCell.Tab.0.right" timestamp="1587266734005">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="732" height="156" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587266734005" />
+    <state width="658" height="135" key="GridCell.Tab.1.bottom" timestamp="1587266734003">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="658" height="135" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587266734003" />
+    <state width="658" height="135" key="GridCell.Tab.1.center" timestamp="1587266734002">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="658" height="135" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1587266734002" />
+    <state width="658" height="135" key="GridCell.Tab.1.left" timestamp="1587266734002">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="658" height="135" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1587266734002" />
+    <state width="658" height="135" key="GridCell.Tab.1.right" timestamp="1587266734002">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="658" height="135" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1587266734002" />
+    <state width="658" height="135" key="GridCell.Tab.2.bottom" timestamp="1587266734003">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="658" height="135" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587266734003" />
+    <state width="658" height="135" key="GridCell.Tab.2.center" timestamp="1587266734003">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="658" height="135" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1587266734003" />
+    <state width="658" height="135" key="GridCell.Tab.2.left" timestamp="1587266734003">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="658" height="135" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1587266734003" />
+    <state width="658" height="135" key="GridCell.Tab.2.right" timestamp="1587266734003">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="658" height="135" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1587266734003" />
+    <state x="300" y="1" width="860" height="679" key="new project wizard" timestamp="1587255392934">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="300" y="1" width="860" height="679" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1587255392934" />
+  </component>
+</project>

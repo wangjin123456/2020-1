@@ -1,0 +1,14 @@
+作业：
+1.org.apache.ibatis.binding.MapperProxy#invoke
+进51 还是 52 为什么？
+
+2. org.apache.ibatis.binding.MapperMethod#execute
+为什么不用策略模式优化？
+下节课：
+正确的方法去写出优雅的代码！
+
+下节课：
+手把手带着手写MyBatis 1.0 ,正确的方法去写出优雅的代码！
+
+
+作业提交在知识圈里，打卡提交！

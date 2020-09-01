@@ -1,0 +1,146 @@
+mybatis 到底帮我们做了什么事
+1，封装 JDBC 操作
+2, 利用反射 java <> sql 语句之间互转
+
+Mybatis 架构
+接口层：
+
+          数据增加接口   数据删除接口  数据查询接口   数据修改接口  配置信息维护接口
+		  
+		  接口调用方式         基于Statement ID   基于MApper接口
+		  
+
+数据处理层：
+             参数映射          sql解析             sql执行             结果处理和映射
+            参数映射配置  		sql语句配置	       SimpleExecutor        结果映射配置
+             参数映射解析        sql语句解析       BatchExecutor          结果类型转换
+		    参数类型解析         sql语句动态生成   ReuseExecutor         结果类型转换
+		  ParameterHandler       sqlSource          Executor             ResultSetHandler
+
+框架支撑层：
+          sql语句配置      基于XML配置     基于注解
+		  
+		  事务管理              连接池管理      缓存机制
+引导层：  基于xml配置方式         基于javaAPI方式		  
+		  
+Mybatis执行流程
+启动---》 sqlSessionFactoryBuider--->	   sqlSessionFactory---->	
+        通过parse() 创建Configuration 对象              SqlSession                       openSession
+                                              Executor    															
+                                                   query等方法
+                     StatementHandler												   
+             ParameterHandler
+
+Mybatis插件机制：
+@Intercepts(@Signature(
+          type=StatementHandler.class,
+		  method="prepare",
+		  args={Connection.class,Integer.class}
+  )
+@Intercepts: 注解
+@Signature: 是对插件需要拦截的对象进行签名
+type：  需要拦截的类型，  method 表示拦截类中的方法
+args: 是需要的参数，这里的参数在后面可以获取到
+statementHandler:  数据库会话器专门用于处理数据库会话；statement的
+
+分页开发流程：
+select  * from user
+1,拿到原始的sql语句
+2，修改原始的sql语句，增加分页 select * from user  limit 0,3
+3,执行jdbc 去查询总数
+4，方法名称以page结尾的分页
+
+
+常见的分页实现：
+分页类型        优点                                                     缺点
+数组分页      简单                                                      不是物理分页，性能差
+sql分页           真实的分页，性能高                                   冗余，不方便统一管理，维护性较差
+RowBounds分页：   Mybatis 自带分页，简单                               内存分页，性能差
+Mybatis 插件分页：   一次编写，避免多次配置时的出错，                        开发难度较大，需要一定的技术积累
+                    需要修改时只需要修改这一个文件，一劳永逸。
+
+流 量削峰
+1，浏览器应对高并发
+ 浏览器缓存，减少请求
+ 多个子域名部署，突破浏览器连接限制
+ 图片文件独立服务器，域名部署，减少请求传输量
+  减少浏览器cookie 大小
+ 2，服务器端：
+ 动静分离，静态资源使用CDN进行服务分发； nginx+tomcat
+ 应用集群，负载均衡； F5、Array/LVS/NGINX/tomcat
+ 分布式缓存memcached+redis; 应用本地缓存ehcache
+ jvm 调优
+ nodejs 服务器并发处理
+  消息队列
+
+3，消息中间件适应场景 -- 秒杀
+使用消息队列的目的：
+异步处理，
+应用解耦，
+流量消峰
+海量日志传输
+消息通讯
+分布式事务
+rabbitmq：  初始化消息队列-交换机---binding
+
+总结：
+1，对于秒杀这样的高并发业务，将请求拦截在烯烃上游，降低下游压力
+2，划分好动静资源，静态资源使用CDN进行服务分发；
+3， 充分利用缓存（redis等）：增加QPS，从而加大整个集群的吞吐量
+4， 高峰值流量是压垮系统很重要的原因，所以需要消息队列在一端承接瞬时的流量 
+洪峰，在另一端平滑地将消息推送出去；
+
+
+
+jvm
+一个方法一个栈帧
+
+虚拟机栈---栈 -数据结构---存储数据
+
+递归： 自己调自己
+
+虚拟机栈： 局部变量表 ：操作数据 ，动态链接 出口
+
+动态特性： 运行时多态
+嵌套调用： 递归 
+
+
+程序计数器： 指向当前线程正在执行的字节码指令的地址（行号）
+虚拟机栈： 存储当前线程运行方法时所需要的数据，指令，返回地址
+
+本地方法栈：
+方法区：  类信息，常量 ，静态变量， JIT
+
+
+
+redis 线上注意事项
+
+
+CyclicBarrier 栅栏机制 
+CountDownLatch 到计数器装置
+
+
+
+Redis 数据失效导致的雪崩：
+因为缓存失效，导致数据库处理不过来，整个烯烃依赖数据库的功能全部崩溃
+2， 单系统挂掉，其他依赖于该烯烃的应用也会出现不稳定甚至崩溃；
+
+info命令 查看redis一些基本的参数
+
+缓存数据失效，分析原因：
+1，数据设置有效期；
+2，内存满了
+3，机器重启  --默认数据在内存 --重启后就没有了
+  3。1 --持久化--- RDB持久化 ----有问题】
+  3.2 --持久化--AOF增量持久化 ----不完全可靠
+        主从集群--异步同步数据-也不完全可靠
+		
+  #aof持久化策略配置
+#no 表示不执行fsync ，由操作系统保证数据库同步到磁盘，速度快
+#always 表示每次写入都执行fsync, 以保证数据同步到磁盘
+#everysec 表示每秒钟执行一次fsync，可能会导致丢失1秒的数据
+
+
+semaphore
+
+  

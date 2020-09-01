@@ -1,0 +1,20 @@
+spring:
+   application:
+      name: rocket-mq-provider
+   cloud:
+      stream:
+         rocketmq:
+            binder:
+              #RocketMQ   服务器地址
+              namesrv-addr: 127.0.0.1:9876
+         bindings:
+           #这里是个MAp类型参数，{区：  组： } YAML 中的Map 的行内写法
+            output: {destination: test-topic,content-type: application/json}
+
+server:
+   port:  9093
+management:
+   endpoints:
+      web:
+         exposure:
+             include: '*'

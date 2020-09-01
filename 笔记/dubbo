@@ -1,0 +1,61 @@
+dubbo
+账号：16532966755
+密码：mianfeivip.coma8
+
+
+链接: https://pan.baidu.com/s/1RjBodKLMeRc3hVK-7ZRATw 提取码: 7qn8
+
+springcloud2.0-itmayidu-parent
+
+localhost:3030/toPayToken?payAmount=12&orderId=22&userId=33&orderName=98
+
+spring boot + spring cloud  组件多，功能完备  http
+spring boot + Dubbo+ Zookeeper 组件少，功能非常完备 Alibaba Dubbo -> Apache Dubbo 孵化
+
+RPC 通信框架 ->  微服务架构解决方案
+
+微服务架构遇到什么问题？ 分布式系统开发
+四大问题 高可用 -> 一直可用 ， 高并发 ，高性能
+1，客户端如何访问这么多的服务
+APi 网关
+2， 服务之间如何通信
+		HTTP(Apache Http Client
+		同步通信)
+		RPC(Dubbo 只支持 java  Apache thrift,GPRc,)
+		异步通信
+  消息队列 kafka  RabbitMQ  RocketMQ
+3, 这么对通信如何管理：
+        服务治理
+		   服务注册与发现，
+		      基于客户端的服务发现和发现
+			         Apache Zookeeper
+			  基于服务端的服务发现与注册
+                 netflix Eureka
+4, 服务挂了，怎么办？
+      重试机制
+       服务熔断
+       服务降级
+       服务限流 
+
+
+
+分布式锁
+   三个核心要素
+    加锁
+	解锁
+	锁超时
+三个问题
+   要保证原子性操作，加锁和锁超时的操作要一次性执行
+   防止误删除
+   在误删除的基础上，加多一个守护线程
+ zookeeper  和 redis 分布式锁 的比较
+
+zookeeper 优点是 1，有封装好的框架，容易实现，2 有等待锁的行列，大大提升抢锁的效率；
+缺点是： 添加和删除节点性能较低 
+
+redis： set和Del 指令的性能较高  缺点： 1实现复杂，需要考虑超时。原子性。误删除等情形
+2， 没有等待锁的行列，只能在客户端自旋来解锁，效率低下；
+
+   
+   
+   

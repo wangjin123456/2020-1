@@ -1,0 +1,26 @@
+server:
+  port: 28081
+spring:
+  application:
+    name: spring-cloud-alibaba-rocketmq
+#配置rocketmq的nameserver
+  cloud:
+     stream:
+       rocketmq:
+         binder:
+           namesrv-addr: 127.0.0.1:9876
+ #定义name为output的binding(多个output一样的配置)
+       bindings:
+          output:
+              destination: test-topic
+              content-type: application/json
+#定义name为intput的binding
+          input:
+             destination: test-topic
+             content-type: application/json
+             group: test-group
+management:
+   endpoints:
+       web:
+           exposure:
+              include: '*'

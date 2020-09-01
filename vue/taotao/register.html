@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+	</head>
+	<body>
+		<div id="app">
+			<!--表单登录-->
+			<form style="margin-left:500px;margin-top:200px;">
+				<div class="form-group">
+					<label for="user" stype="display:inline;">姓名</label>
+					<input type="text" v-model="userName" class="form-control" style="display:inline ;width: 200px;" autocomplete="off" />
+				</div>
+				<div class="form-group">
+					<label for="user" stype="display:inline;">手机号码</label>
+					<input type="text" v-model="mobile" class="form-control" style="display:inline ;width: 200px;" autocomplete="off" />
+				</div>
+				<div class="form-group">
+					<label for="password" style="display: inline;">密 码</label>
+					<input type="password" v-model="password" class="form-control" style="display: inline;width: 200px;" autocomplete="off" />
+
+				</div>
+				<button type="button" class="btn btn-primary" @click="register()">注册</button>
+
+				<button type="button" class="btn btn-primary">登录</button>
+			</form>
+		</div>
+
+
+
+
+
+
+
+		<script src="https://cdn.jsdelivr.net/npm/vue"></script>
+		<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+		<script src="./js/member.js"></script>
+
+	</body>
+</html>

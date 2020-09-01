@@ -1,0 +1,22 @@
+spring:
+  datasource:
+    dynamic:
+      primary: itmayidu-order #设置默认的数据源或者数据源组,默认值即为master
+      strict: false #设置严格模式,默认false不启动. 启动后在未匹配到指定数据源时候回抛出异常,不启动会使用默认数据源.
+      datasource:
+        ##会员的数据库
+        itmayidu-order:
+          url: jdbc:mysql://localhost:3306/itmayidu-order?useUnicode=true&characterEncoding=UTF-8&serverTimezone=GMT%2B8
+          username: root
+          password: root
+          driver-class-name: com.mysql.cj.jdbc.Driver
+        ###订单数据库
+        itmayidu-stock:
+          url: jdbc:mysql://localhost:3306/itmayidu-stock?useUnicode=true&characterEncoding=UTF-8&serverTimezone=GMT%2B8
+          username: root
+          password: root
+          driver-class-name: com.mysql.cj.jdbc.Driver
+logging:
+  level:
+    ###打印mybatis日志
+     com.taotao.datasources_ds : debug

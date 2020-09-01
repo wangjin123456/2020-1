@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/myshop-commons-domain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myshop-commons-domain/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myshop-commons-mapper/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myshop-commons-mapper/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myshop-commons-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myshop-commons-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myshop-commons/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myshop-commons/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myshop-database/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myshop-database/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myshop-service-consumer-item/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myshop-service-consumer-item/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myshop-service-email/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myshop-service-email/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myshop-service-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myshop-service-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myshop-service-provider-item/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myshop-service-provider-item/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myshop-service-reg/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myshop-service-reg/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

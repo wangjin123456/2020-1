@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springcloud2.0-itmayidu-api-member-services-impl" />
+        <module name="springcloud2.-gateway" />
+        <module name="springcloud2.0-itmayidu-api-order-services-impl" />
+        <module name="common" />
+        <module name="springcloud2.0-config-server" />
+        <module name="springcloud2.0-itmayidu-api-member-services" />
+        <module name="springcloud-server" />
+        <module name="springcloud2.0-itmayidu-api-order-services" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="common" target="1.8" />
+      <module name="springcloud-server" target="1.8" />
+      <module name="springcloud2.-gateway" target="1.8" />
+      <module name="springcloud2.0-config-server" target="1.8" />
+      <module name="springcloud2.0-itmayidu-api-member-services" target="1.8" />
+      <module name="springcloud2.0-itmayidu-api-member-services-impl" target="1.8" />
+      <module name="springcloud2.0-itmayidu-api-order-services" target="1.8" />
+      <module name="springcloud2.0-itmayidu-api-order-services-impl" target="1.8" />
+      <module name="springcloud2.0-itmayidu-api-services" target="1.8" />
+      <module name="springcloud2.0-itmayidu-parent" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="common" options="-parameters" />
+      <module name="springcloud-server" options="-parameters" />
+      <module name="springcloud2.-gateway" options="-parameters" />
+      <module name="springcloud2.0-config-server" options="-parameters" />
+      <module name="springcloud2.0-itmayidu-api-member-services" options="-parameters" />
+      <module name="springcloud2.0-itmayidu-api-member-services-impl" options="-parameters" />
+      <module name="springcloud2.0-itmayidu-api-order-services" options="-parameters" />
+      <module name="springcloud2.0-itmayidu-api-order-services-impl" options="-parameters" />
+    </option>
+  </component>
+</project>

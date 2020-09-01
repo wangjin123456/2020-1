@@ -1,0 +1,4 @@
+com\itmayidu\api\service\AppOrder.class
+com\itmayidu\api\service\fallback\MemberServiceFallback.class
+com\itmayidu\api\service\impl\OrderServiceImpl.class
+com\itmayidu\api\service\feign\MemberServiceFeign.class

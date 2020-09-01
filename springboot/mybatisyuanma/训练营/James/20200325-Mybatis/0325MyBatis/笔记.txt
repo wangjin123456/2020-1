@@ -1,0 +1,76 @@
+Java程序员 最应该具备的能力是什么？
+	面向对象 = 用Java来描述这个世界
+	
+	
+需求：
+coding --> big class --> all funcs -->
+拆分 --》 refactor --> packages  classes -->
+怪怪的 
+
+1.不知道到底有哪些class ？
+2.不知道哪些class里面应该有哪些方法？
+
+概念 使用
+
+宏观  --》 微观
+
+
+xxxRegistry
+
+动态代理 50分？
+
+getMapper
+
+setMapper
+putMapper
+addMapper
+
+逆向推导
+正向推导 
+
+MapperProxyFactory
+MapperProxy
+Proxy
+
+
+com.gupaoedu.mybatis.mapper.TestMapper
+org.apache.ibatis.binding.MapperProxy@1ffe63b9
+
+com.gupaoedu.mybatis.proxy.ProxyImpl
+com.gupaoedu.mybatis.proxy.ProxyImpl@424c0bc4
+
+作业：
+1.org.apache.ibatis.binding.MapperProxy#invoke
+进51 还是 52 为什么？
+
+2. org.apache.ibatis.binding.MapperMethod#execute
+为什么不用策略模式优化？
+
+
+
+TestMapper 是不是Object?
+
+策略  滥用设计模式
+
+可扩展 
+	开闭原则  测试
+
+
+	
+掉到细节里面去了	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

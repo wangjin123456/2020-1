@@ -1,0 +1,18 @@
+spring:
+  datasource:
+    ###可读数据源
+    select:
+      jdbc-url: jdbc:mysql://192.168.0.99:8066/test?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC&useSSL=true
+      driver-class-name: com.mysql.jdbc.Driver
+      username: user
+      password: user
+    ####可写数据源  
+    update:
+      jdbc-url: jdbc:mysql://192.168.0.99:8066/test?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC&useSSL=true
+      driver-class-name: com.mysql.jdbc.Driver
+      username: root
+      password: 123456
+
+logging:
+  level:
+    com.taotao.dxfl: debug

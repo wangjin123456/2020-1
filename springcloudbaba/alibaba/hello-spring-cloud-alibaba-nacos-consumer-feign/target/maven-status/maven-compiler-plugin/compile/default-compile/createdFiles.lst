@@ -1,0 +1,5 @@
+com\funtl\hello\spring\cloud\alibaba\nacos\consumer\feign\NacosConsumerFeignApplication.class
+com\funtl\hello\spring\cloud\alibaba\nacos\consumer\feign\service\EchoService.class
+com\funtl\hello\spring\cloud\alibaba\nacos\consumer\feign\fallback\EchoServiceFallback.class
+com\funtl\hello\spring\cloud\alibaba\nacos\consumer\feign\service\EchoService$FeignConfiguration.class
+com\funtl\hello\spring\cloud\alibaba\nacos\consumer\feign\controller\NacosConsumerFeignController.class
