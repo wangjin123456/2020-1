@@ -13,8 +13,8 @@ public class UserMayiEntry {
         return userName;
     }
 
-    public UserMayiEntry setUserName(String userName) {
+    public void setUserName(UserMayiEntry this,String userName) {
         this.userName = userName;
-        return this;
+
     }
 }

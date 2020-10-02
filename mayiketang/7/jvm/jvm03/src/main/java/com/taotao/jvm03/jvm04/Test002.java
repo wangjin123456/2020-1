@@ -7,6 +7,8 @@ package com.taotao.jvm03.jvm04;
  */
 public class Test002 {
     public static void main(String[] args) {
-        Test002 test002=new Test002();
+        UserMayiEntry u=new UserMayiEntry();
+
+        //Test002 test002=new Test002();
     }
 }
