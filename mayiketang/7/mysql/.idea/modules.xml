@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/jdbcs/jdbcs.iml" filepath="$PROJECT_DIR$/jdbcs/jdbcs.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/mysql.iml" filepath="$PROJECT_DIR$/.idea/mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharding-jdbc/sharding-jdbc.iml" filepath="$PROJECT_DIR$/sharding-jdbc/sharding-jdbc.iml" />
     </modules>
   </component>
 </project>
