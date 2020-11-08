@@ -20,14 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="246bd06f-a1c8-4dfa-8eed-655442fd501b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/taotao_netty/src/main/java/com/taotao/netty/bio/SocketBioClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taotao_netty/src/main/java/com/taotao/netty/bio/SocketBioServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taotao_netty/src/main/java/com/taotao/netty/nio/SimulationNioTcpServer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../4/txlcn-demo" beforeDir="false" afterPath="$PROJECT_DIR$/../../4/txlcn-demo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +109,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604799335000</updated>
-      <workItem from="1604799339535" duration="3594000" />
+      <workItem from="1604799339535" duration="7139000" />
     </task>
     <servers />
   </component>
