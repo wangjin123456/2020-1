@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/taotao_netty/demo.iml" filepath="$PROJECT_DIR$/taotao_netty/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/socket.iml" filepath="$PROJECT_DIR$/.idea/socket.iml" />
-      <module fileurl="file://$PROJECT_DIR$/taotao_netty/taotao_netty.iml" filepath="$PROJECT_DIR$/taotao_netty/taotao_netty.iml" />
     </modules>
   </component>
 </project>
