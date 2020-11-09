@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/alibabanacos/alibabanacos.iml" filepath="$PROJECT_DIR$/alibabanacos/alibabanacos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springcloudalibaba.iml" filepath="$PROJECT_DIR$/.idea/springcloudalibaba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webservice_client/webservice_client.iml" filepath="$PROJECT_DIR$/webservice_client/webservice_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webservice_member/webservice_member.iml" filepath="$PROJECT_DIR$/webservice_member/webservice_member.iml" />
+    </modules>
+  </component>
+</project>

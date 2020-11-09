@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="246bd06f-a1c8-4dfa-8eed-655442fd501b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/taotao_netty/src/main/java/com/taotao/netty/nio/SimulationNioTcpServer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../4/txlcn-demo" beforeDir="false" afterPath="$PROJECT_DIR$/../../4/txlcn-demo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taotao_netty/src/main/java/com/taotao/netty/nio/SimulationNioTcpServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/taotao_netty/src/main/java/com/taotao/netty/nio/SimulationNioTcpServer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,8 +57,22 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../6/springcloudalibaba" />
   </component>
-  <component name="RunManager" selected="Application.SocketBioClient">
+  <component name="RunManager" selected="Application.SimulationNioTcpServer">
+    <configuration name="SimulationNioTcpServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.taotao.netty.nio.SimulationNioTcpServer" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.taotao.netty.nio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SocketBioClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.taotao.netty.bio.SocketBioClient" />
       <module name="demo" />
@@ -94,6 +108,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SimulationNioTcpServer" />
         <item itemvalue="Application.SocketBioClient" />
         <item itemvalue="Application.SocketBioServer" />
       </list>
@@ -109,7 +124,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604799335000</updated>
-      <workItem from="1604799339535" duration="7139000" />
+      <workItem from="1604799339535" duration="8318000" />
     </task>
     <servers />
   </component>
@@ -128,41 +143,61 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1237" height="291" key="GridCell.Tab.0.bottom" timestamp="1604804906888">
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1604831229504">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="291" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604804906888" />
-    <state width="1237" height="291" key="GridCell.Tab.0.center" timestamp="1604804906888">
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1604831229504" />
+    <state width="1237" height="134" key="GridCell.Tab.0.bottom" timestamp="1604831229538">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="291" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1604804906888" />
-    <state width="1237" height="291" key="GridCell.Tab.0.left" timestamp="1604804906888">
+    <state width="1237" height="134" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604831229538" />
+    <state width="1237" height="134" key="GridCell.Tab.0.center" timestamp="1604831229538">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="291" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1604804906888" />
-    <state width="1237" height="291" key="GridCell.Tab.0.right" timestamp="1604804906888">
+    <state width="1237" height="134" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1604831229538" />
+    <state width="1237" height="134" key="GridCell.Tab.0.left" timestamp="1604831229538">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="291" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1604804906888" />
-    <state width="1237" height="291" key="GridCell.Tab.1.bottom" timestamp="1604804889071">
+    <state width="1237" height="134" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1604831229538" />
+    <state width="1237" height="134" key="GridCell.Tab.0.right" timestamp="1604831229538">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="291" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604804889071" />
-    <state width="1237" height="291" key="GridCell.Tab.1.center" timestamp="1604804889071">
+    <state width="1237" height="134" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1604831229538" />
+    <state width="1237" height="134" key="GridCell.Tab.1.bottom" timestamp="1604831229539">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="291" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1604804889071" />
-    <state width="1237" height="291" key="GridCell.Tab.1.left" timestamp="1604804889071">
+    <state width="1237" height="134" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604831229539" />
+    <state width="1237" height="134" key="GridCell.Tab.1.center" timestamp="1604831229539">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="291" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1604804889071" />
-    <state width="1237" height="291" key="GridCell.Tab.1.right" timestamp="1604804889071">
+    <state width="1237" height="134" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1604831229539" />
+    <state width="1237" height="134" key="GridCell.Tab.1.left" timestamp="1604831229538">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="291" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1604804889071" />
+    <state width="1237" height="134" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1604831229538" />
+    <state width="1237" height="134" key="GridCell.Tab.1.right" timestamp="1604831229539">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="134" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1604831229539" />
     <state x="616" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1604804689883">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="616" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1604804689883" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/taotao_netty/src/main/java/com/taotao/netty/nio/SimulationNioTcpServer.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/taotao_netty/src/main/java/com/taotao/netty/nio/SimulationNioTcpServer.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
