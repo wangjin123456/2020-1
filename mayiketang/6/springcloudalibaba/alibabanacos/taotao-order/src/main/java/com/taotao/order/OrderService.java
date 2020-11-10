@@ -4,6 +4,7 @@ import com.taotao.loadbalancer.RotationLoadBalancer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.client.ServiceInstance;
 import org.springframework.cloud.client.discovery.DiscoveryClient;
+import org.springframework.cloud.client.loadbalancer.LoadBalancerClient;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
@@ -25,6 +26,9 @@ public class OrderService {
    @Autowired
     private RotationLoadBalancer loadBalancer;
 
+   @Autowired
+   private LoadBalancerClient loadBalancerClient;
+
     /**
      * 订单服务调用会员服务
      * @return
@@ -42,5 +46,20 @@ public class OrderService {
 
 
         return "调用订单返回结果"+result;
+    }
+    @RequestMapping("/orderToribbonMember")
+    public Object orderToribbonMember() {
+
+        String result=restTemplate.getForObject("http://taotao-member/getUser?userId=3",String.class);
+
+
+        return "调用订单返回结果"+result;
+    }
+
+    @RequestMapping("/loadBalancerClientMember")
+    public Object loadBalancerClientMember() {
+        ServiceInstance result=loadBalancerClient.choose("taotao-member");
+        return  result;
+
     }
 }
